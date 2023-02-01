@@ -1,5 +1,6 @@
 drop table tbl_SLG_HCAHPS
 go
+
 create table tbl_SLG_HCAHPS
 (
  ID int  IDENTITY (1,1),
