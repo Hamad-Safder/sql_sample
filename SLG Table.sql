@@ -34,7 +34,8 @@ ClinicPhoneNumber varchar(20),
 SignatureName varchar(50),
 SignatureTitle varchar(50),
 Wave varchar(5),
-DGExportID varchar(10))
+DGExportID varchar(10)
+);
 
 
 ------------------------------
